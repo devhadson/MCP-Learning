@@ -1,0 +1,31 @@
+id,dni,nombres,apellidos,ciclo,carrera,fecha,costo
+1,12345678,Juan,Carlos,1,Ingeniería de Sistemas,2026-03-12,3500.50
+2,23456789,Ana,Martínez,2,Administración,2026-03-14,3200.00
+3,34567890,Pedro,García,1,Medicina,2026-03-15,4200.75
+4,45678901,María,López,3,Arquitectura,2026-03-16,3100.25
+5,56789012,Luis,Sánchez,4,Derecho,2026-03-17,3300.00
+6,67890123,Carmen,Rodríguez,2,Economía,2026-03-18,3000.50
+7,78901234,José,Hernández,5,Ingeniería Civil,2026-03-19,3800.00
+8,89012345,Lucía,Pérez,1,Biología,2026-03-20,2950.00
+9,90123456,José,Fuentes,3,Psicología,2026-03-21,3050.75
+10,01234567,Claudia,Alvarez,4,Contabilidad,2026-03-22,3100.50
+11,11223344,Raúl,Vargas,2,Ingeniería de Software,2026-03-23,3650.00
+12,22334455,Patricia,Herrera,3,Educación,2026-03-24,2850.25
+13,33445566,Néstor,González,1,Matemáticas,2026-03-25,2900.00
+14,44556677,Adriana,Ramos,2,Física,2026-03-26,2950.00
+15,55667788,Fernando,Castro,4,Química,2026-03-27,3150.50
+16,66778899,Daniela,Romero,5,Administración de Empresas,2026-03-28,3250.00
+17,77889900,Manuel,Ortiz,1,Turismo,2026-03-29,2800.75
+18,88990011,Gloria,Paredes,3,Comunicación,2026-03-30,3000.00
+19,99001122,Ricardo,Mendoza,2,Ingeniería Electrónica,2026-03-31,3700.25
+20,10101010,Verónica,Navarro,4,Nutrición,2026-04-01,2950.00
+21,12121212,Óscar,Silva,3,Ingeniería Mecánica,2026-04-02,3600.50
+22,13131313,Sofía,Blanco,1,Diseño Gráfico,2026-04-03,2900.00
+23,14141414,Gabriel,Castillo,2,Marketing,2026-04-04,3050.25
+24,15151515,Mónica,Torres,4,Ingeniería Ambiental,2026-04-05,3400.75
+25,16161616,Esteban,Suárez,3,Odontología,2026-04-06,4100.00
+26,17171717,Verónica,Silva,1,Ciencias Políticas,2026-04-07,3000.50
+27,18181818,Sebastián,Ruiz,2,Ingeniería Industrial,2026-04-08,3550.00
+28,19191919,Alejandra,Morales,5,Ingeniería de Sistemas,2026-04-09,3650.25
+29,20202020,Patricia,Quintana,3,Matemáticas,2026-04-10,2900.00
+30,21212121,Ernesto,Cedillo,4,Pedagogía,2026-04-11,2850.75

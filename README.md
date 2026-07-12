@@ -27,11 +27,12 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Archivos generados
+## Archivos creados
 
 - `requirements.txt`
 - `src/my_server_hello.py.py`
 - `src/calculator_service.py`
+- `matricula_service.py`
 
 ## Cómo ejecutar los servicios creados
 
